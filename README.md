@@ -22,3 +22,7 @@ OpenCV-Python Tutorials
 ## Theme
 
 The theme for the presentation slides were inspired by and based on the theme of presentation slides in [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/).
+
+## Intellectual Property
+
+No copyright infringement intended.
