@@ -9,7 +9,7 @@ OpenCV-Python Tutorials
 * **5-Core Operations** [[notebook](notebooks/3-core-operations.ipynb)]. A tutorial on core operations in OpenCV, which includes accessing and modifying pixels, image channels, and image arithmetic.
 * **6-Machine Learning for Image Classification** [[notebook](notebooks/4-machine-learning.ipynb)] . A brief introduction on machine learning using kNN and Linear SVM for image classification.
 * **7-Preprocessing using Mean Normalization and PCA** [[notebook](notebooks/5-image-preprocessing.ipynb)]. A tutorial on mean normalization and principal component analysis as preprocessing techniques for machine learning.
-* **8-Real-time Image Classification using TensorFlow and OpenCV** [[notebook](notebooks/6-real-time-classifier.ipynb)]. Using MobileNet architecture written in TensorFlow for OpenCV as real-time classifier.
+* **8-Real-time Image Classification using TensorFlow and OpenCV** [[notebook](notebooks/6-real-time-image-classifier.ipynb)]. Using MobileNet architecture written in TensorFlow for OpenCV as real-time classifier.
 
 ## Theme
 
