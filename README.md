@@ -11,10 +11,6 @@ OpenCV-Python Tutorials
 * **7-Preprocessing using Mean Normalization and PCA** [[notebook](notebooks/5-image-preprocessing.ipynb)]. A tutorial on mean normalization and principal component analysis as preprocessing techniques for machine learning.
 * **8-Real-time Image Classification using TensorFlow and OpenCV** [[notebook](notebooks/6-real-time-image-classifier.ipynb)]. Using MobileNet architecture written in TensorFlow for OpenCV as real-time classifier.
 
-## Theme
-
-The theme for the presentation slides were inspired by and based on the theme of presentation slides in [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/).
-
 ## Intellectual Property
 
 No copyright infringement intended.
@@ -47,6 +43,6 @@ SOFTWARE.
 
 ## References
 
-* *CS231n: Convolutional Neural Network for Visual Recognition*
+* *[CS231n: Convolutional Neural Network for Visual Recognition](http://cs231n.stanford.edu/)*
 * *[Coding Entrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)*
 * *[Google Codelabs](https://codelabs.developers.google.com/)*
